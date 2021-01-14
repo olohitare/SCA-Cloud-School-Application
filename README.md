@@ -1,6 +1,7 @@
 # SCA-Cloud-School-Application
 
-Python code for software installation
+Python code for software installation.
+
 This is a multiplatform solution as the Command Line Interface takes into account the possible OS from which the program will be run.
 All commands were routed based on the platform type.
 
